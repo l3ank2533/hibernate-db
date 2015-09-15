@@ -4,7 +4,7 @@
 
   <groupId>com.bank.immuniity</groupId>
   <artifactId>hibernate-blank-db</artifactId>
-  <version>1.0.0</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
 
   <name>hibernate-blank-db</name>
